@@ -37,13 +37,13 @@ const BodyWrapper = styled.div`
   z-index: 1;
   justify-content: center;
 
-  background-image: url('/images/group-pancake.svg');
+  // background-image: url('/images/group-pancake.svg');
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: 90%;
 
   ${({ theme }) => theme.mediaQueries.lg} {
-    background-image: url('/images/arch-light.svg'), url('/images/left-pancake.svg'), url('/images/right-pancake.svg');
+    // background-image: url('/images/arch-light.svg'), url('/images/left-pancake.svg'), url('/images/right-pancake.svg');
     background-repeat: no-repeat;
     background-position: bottom, 10% center, 90% center;
     background-size: contain, 20%, 20%;
