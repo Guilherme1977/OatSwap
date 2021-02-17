@@ -1955,6 +1955,17 @@
     mkdirp "^1.0.4"
     rimraf "^2.7.1"
 
+"@oatswap/oatswap-uikit@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@oatswap/oatswap-uikit/-/oatswap-uikit-1.0.3.tgz#b97775afdc55dd8b34014f4f7d6c4b804e3e342e"
+  integrity sha512-jQgNiD/mHhDmwUWxssAp3/iMx1uy4mD9NhW9I40XKbHNCZiEQnLTejzMr1OMFUd9kUIDuY5zteVVMfI358l8Dw==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
 "@pancakeswap-libs/eslint-config-pancake@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@pancakeswap-libs/eslint-config-pancake/-/eslint-config-pancake-1.0.0.tgz#da5c17842d1cb0d575bca3de0c9404386c386151"
