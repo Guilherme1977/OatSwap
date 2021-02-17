@@ -1993,17 +1993,6 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@^0.10.5":
-  version "0.10.5"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/uikit/-/uikit-0.10.5.tgz#68d8440d23d2350cee3aa9af37e82ba71a8c0658"
-  integrity sha512-T1uikr5ImU3wMMdf5PbYLJTCacdCmzJSkOu+SUmG06OlM6gLvTWsAZeAai9CX4llyEvv1BzQQTDVnwVbPFFoNw==
-  dependencies:
-    "@types/lodash" "^4.14.162"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-transition-group "^4.4.1"
-    styled-system "^5.1.5"
-
 "@pedrouid/iso-crypto@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@pedrouid/iso-crypto/-/iso-crypto-1.0.0.tgz#cf06b40ef3da3d7ca7363bd7a521ed59fa2fd13d"
