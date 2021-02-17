@@ -1,6 +1,6 @@
 {
-  "name": "@pancakeswap/interface",
-  "description": "Pancakeswap Interface",
+  "name": "@oatswap/oatswap-exchange-frontend",
+  "description": "OatSwap Exchange Frontend",
   "homepage": ".",
   "private": true,
   "dependencies": {
