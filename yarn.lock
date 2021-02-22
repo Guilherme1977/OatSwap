@@ -1956,9 +1956,9 @@
     rimraf "^2.7.1"
 
 "@oatswap/oatswap-uikit@^1.0.3":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@oatswap/oatswap-uikit/-/oatswap-uikit-1.0.6.tgz#6a185601a097f85b6ac906d3232bc225c88190b1"
-  integrity sha512-1B3nuJQ5IHNq2e85KTCLSeEe6BQL4mvKRnWV4NI32cMmQBf1oTp7QnNs7jELlQkRNBi7Sd1XUcQuo+vyDtECWg==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@oatswap/oatswap-uikit/-/oatswap-uikit-1.0.7.tgz#c122e597728980f2786f4b736479687da3988d35"
+  integrity sha512-n4NzK24VEaRc7W+HwKk9FNCTKmYyGR8PddTdNYk29O2KrUUau9A1PFCZg82jOL8oeVUJTxboRUmzOq2WdTr01g==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
