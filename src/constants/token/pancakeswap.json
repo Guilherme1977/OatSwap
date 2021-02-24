@@ -42,6 +42,14 @@
       "logoURI": "/images/coins/BTC.png"
     },
     {
+      "name": "OatSwap Token",
+      "symbol": "OAT",
+      "address": "0xff9d1a4bc6cfd3d6b9e5217f01571340e4a5ff1e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://oatswap.org/logo_32.png"
+    },
+    {
       "name": "Bakery Token",
       "symbol": "BAKE",
       "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
