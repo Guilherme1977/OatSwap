@@ -65,20 +65,12 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'Overview',
-        href: 'https://pancakeswap.info',
+        label: 'PancakeSwap',
+        href: 'https://pancakeswap.info/token/0xff9d1a4bc6cfd3d6b9e5217f01571340e4a5ff1e',
       },
       {
-        label: 'Tokens',
-        href: 'https://pancakeswap.info/tokens',
-      },
-      {
-        label: 'Pairs',
-        href: 'https://pancakeswap.info/pairs',
-      },
-      {
-        label: 'Accounts',
-        href: 'https://pancakeswap.info/accounts',
+        label: 'BscScan',
+        href: 'https://bscscan.com/token/0xff9d1a4bc6cfd3d6b9e5217f01571340e4a5ff1e',
       },
     ],
   },
