@@ -31,11 +31,11 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: 'https://oatswap.org/pools',
   },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: 'https://pancakeswap.finance/lottery',
-  // },
+  {
+    label: 'Lottery',
+    icon: 'TicketIcon',
+    href: 'https://pancakeswap.finance/lottery',
+  },
   // {
   //   label: 'NFT',
   //   icon: 'NftIcon',
