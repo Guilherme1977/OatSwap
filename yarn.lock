@@ -1095,9 +1095,9 @@
     regenerator-runtime "^0.13.4"
 
 "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.7":
-  version "7.12.18"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.12.18.tgz#af137bd7e7d9705a412b3caaf991fe6aaa97831b"
-  integrity sha512-BogPQ7ciE6SYAUPtlm9tWbgI9+2AgqSam6QivMgXgAT+fKbgppaj4ZX15MHeLC1PVF5sNk70huBu20XxWOs8Cg==
+  version "7.13.7"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.13.7.tgz#d494e39d198ee9ca04f4dcb76d25d9d7a1dc961a"
+  integrity sha512-h+ilqoX998mRVM5FtB5ijRuHUDVt5l3yfoOi2uh18Z/O3hvyaHQ39NpxVkCIG5yFs+mLq/ewFp8Bss6zmWv6ZA==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -1956,9 +1956,9 @@
     rimraf "^2.7.1"
 
 "@oatswap/oatswap-uikit@^1.0.3":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@oatswap/oatswap-uikit/-/oatswap-uikit-1.0.7.tgz#c122e597728980f2786f4b736479687da3988d35"
-  integrity sha512-n4NzK24VEaRc7W+HwKk9FNCTKmYyGR8PddTdNYk29O2KrUUau9A1PFCZg82jOL8oeVUJTxboRUmzOq2WdTr01g==
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@oatswap/oatswap-uikit/-/oatswap-uikit-1.0.8.tgz#d3a6980229eaf1d8d2ae90afd891162a3fefd95b"
+  integrity sha512-pFHUNzGAb6dkr/O/nW/4zUjLZRt6c02d1vSTUCHA1OYnjzX9CboJXFCibgbk+zqnhK+IzKb21Nb9Jkza/GiPXA==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
@@ -5950,9 +5950,9 @@ csstype@^2.5.7:
   integrity sha512-2mSc+VEpGPblzAxyeR+vZhJKgYg0Og0nnRi7pmRXFYYxSfnOnW8A5wwQb4n4cE2nIOzqKOAzLCaEX6aBmNEv8A==
 
 csstype@^3.0.2:
-  version "3.0.6"
-  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.6.tgz#865d0b5833d7d8d40f4e5b8a6d76aea3de4725ef"
-  integrity sha512-+ZAmfyWMT7TiIlzdqJgjMb7S4f1beorDbWbsocyK4RaiqA5RTX3K14bnBWmmA9QEM0gRdsjyyrEmcyga8Zsxmw==
+  version "3.0.7"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.7.tgz#2a5fb75e1015e84dd15692f71e89a1450290950b"
+  integrity sha512-KxnUB0ZMlnUWCsx2Z8MUsr6qV6ja1w9ArPErJaJaF8a5SOWoHLIszeCTKGRGRgtLgYrs1E8CHkNSP1VZTTPc9g==
 
 cyclist@^1.0.1:
   version "1.0.1"
