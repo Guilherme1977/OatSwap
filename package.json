@@ -2,7 +2,7 @@
   "name": "@oatswap/oatswap-exchange-frontend",
   "description": "OatSwap Exchange Frontend",
   "homepage": ".",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
